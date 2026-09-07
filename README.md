@@ -1,12 +1,5 @@
 <h1> Olá 👋 </h1> 
 
-<div>
-<a href="https://github.com/Luizedu10s">
-<img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizedu10s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Luizedu10s">
-  <img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luizedu10s&layout=compact&langs_count=7&theme=radical" />
-</a></div><br>
 
 <div>
   <h1>Linguagens e frameworks</h1>
