@@ -13,9 +13,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,postgres,supabase,git,github&theme=dark" />
 </div>
 
-<h3 align="left">Minhas Contribuições: </h3> 
-<br clear="both">
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizedu10s/Luizedu10s/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizedu10s/Luizedu10s/pacman-output/pacman-contribution-graph.svg?game=pacman">
