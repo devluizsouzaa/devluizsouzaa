@@ -1,16 +1,26 @@
 <h1> Olá 👋 </h1> 
 
+<h3 align="left">GitHub Stats</h3> 
+<div align="center">
+  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api?username=Luizedu10s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luizedu10s&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img width="33%" height="180" src="https://streak-stats.demolab.com?user=Luizedu10s&theme=dracula&hide_border=true"/>
 
-<div>
-  <h1>Linguagens e frameworks</h1>
-  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
-  <img height="40px" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
 </div>
 
+<h3 align="left">Ferramentas que utilizo</h3> 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,postgres,supabase,git,github&theme=dark" />
+</div>
+
+<h3 align="left">Minhas Contribuições</h3> 
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizedu10s/Luizedu10s/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizedu10s/Luizedu10s/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luizedu10s/Luizedu10s/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 <div>
     <h1>Contato</h1>
