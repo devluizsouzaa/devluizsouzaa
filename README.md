@@ -8,12 +8,12 @@
 
 </div>
 
-<h3 align="left">Ferramentas que utilizo</h3> 
+<h3 align="left">Ferramentas que utilizo: </h3> 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,postgres,supabase,git,github&theme=dark" />
 </div>
 
-<h3 align="left">Minhas Contribuições</h3> 
+<h3 align="left">Minhas Contribuições: </h3> 
 <br clear="both">
 
 <picture data-importer="pacman">
