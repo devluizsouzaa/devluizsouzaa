@@ -2,9 +2,9 @@
 
 <h3 align="left"> :chart_with_upwards_trend: GitHub Stats</h3> 
 <div align="center">
-  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api?username=devluizsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devluizsouza&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  <img width="33%" height="180" src="https://streak-stats.demolab.com?user=devluizsouza&theme=dracula&hide_border=true"/>
+  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api?username=devluizsouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="33%" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devluizsouzaa&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img width="33%" height="180" src="https://streak-stats.demolab.com?user=devluizsouzaa&theme=dracula&hide_border=true"/>
 
 </div>
 
