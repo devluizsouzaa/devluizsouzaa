@@ -21,7 +21,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devluizsouzaa/devluizsouzaa/output/pacman-contribution-graph.svg">
 </picture>
 
-<h1>Contato</h1>
+<h1>📞​ Contato</h1>
 <div align="center">
   <a href="mailto:souzaeduardoluiz010@gmail.com">
     <img alt="Gmail" width="150px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
